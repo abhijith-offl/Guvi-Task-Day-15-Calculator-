@@ -2,7 +2,7 @@
 var body = document.createElement("div")
 body.className = "container"
 
-//Top
+//Display
 var display = document.createElement("div")
 display.className = "row-display"
 display.style.fontSize="40px"
